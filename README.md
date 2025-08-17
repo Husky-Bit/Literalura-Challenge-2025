@@ -75,7 +75,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
 ## 🎯 Funcionalidades principales
 
-- Búsqueda por título con lista de coincidencias.  
+- Búsqueda por título.  
 - Registro de libros y autores en la base de datos.  
 - Listado de libros por idioma.  
 - Búsqueda de autores por año de nacimiento.  
